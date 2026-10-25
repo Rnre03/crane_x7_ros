@@ -155,7 +155,7 @@ def main(args=None):
     PICK_YAW = -90.0
 
     # 置く位置（プレース位置）のXYZ[m]とRPY[deg]
-    PLACE_X = 0.2
+    PLACE_X = -0.2
     PLACE_Y = 0.2
     PLACE_Z = 0.13
     PLACE_ROLL = -180.0
